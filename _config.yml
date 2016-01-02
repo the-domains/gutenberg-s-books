@@ -1,0 +1,28 @@
+name: "Gutenberg's books"
+favicon: null
+layout_spectrum: 0.8675985962618142
+typography_spectrum: 0.5354951759800315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.28618661081418395
+  lightness: 0.49067223770543933
+  saturation: 0.9395939244423062
+  rhythmicContrast: 0.27316795918159187
+purpose: []
